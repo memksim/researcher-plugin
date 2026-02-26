@@ -11,8 +11,11 @@ A Claude Code plugin for code analysis and research.
 - **Task Backlog**: Generates prioritized improvement recommendations
 
 ## Installation
+In Claude Code, register the marketplace first: 
+`/plugin marketplace add memksim/workflow-marketplace`
 
-Place this plugin in your Claude Code plugins directory.
+Then install the plugin from this marketplace: 
+`/plugin install researcher@workflow-plugins`
 
 ## Usage
 
