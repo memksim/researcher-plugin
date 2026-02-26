@@ -1,0 +1,8 @@
+{
+  "name": "researcher",
+  "description": "Tools for code base research and analysis.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Maksim Kosenko"
+  }
+}
