@@ -1,6 +1,4 @@
-# Researcher Plugin
-
-A Claude Code plugin for code analysis and research.
+# Claude code plugin for code analysus and research project functionality
 
 ## Features
 
