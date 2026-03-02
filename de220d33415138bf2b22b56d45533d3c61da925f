@@ -1,0 +1,8 @@
+agents/researcher.md
+  09a74be 49-56,58,60-62,64,81-82,85-91,99-100,105-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "base_commit_sha": "da84d5f1c1569d0c20a89749ae280746ab839b30",
+  "prompts": {}
+}
