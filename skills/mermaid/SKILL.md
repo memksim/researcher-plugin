@@ -1,6 +1,6 @@
 ---
 name: mermaid
-description: Information about how to choose diagram style, how to build it, and which patterns to follow.
+description: Used only if user wants to see diagrams. Provides information about how to choose diagram style, how to build it, and which patterns to follow.
 allowed-tools: Read, Write
 user-invocable: false
 ---

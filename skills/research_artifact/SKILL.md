@@ -1,5 +1,5 @@
 ---
-name: research_artefact
+name: research_artifact
 description: Responsible for forming and recording the final artifact based on conducted research results.
 allowed-tools: Read, Write
 user-invocable: false
